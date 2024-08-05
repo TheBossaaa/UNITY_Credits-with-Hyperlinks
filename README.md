@@ -1,6 +1,8 @@
 # Credits-with-Hyperlinks
 Use this if you want links to be interactable inside credits
 
+Made for Unity Game Development.
+
 Example TMPro Text:
 
 </b><size=60>Made in 7 days for <color=#FF0088>E</color><color=#00C653>a</color><color=#6262FF>s</color><color=#FFEF00>t</color><color=#FF0000>e</color><color=#9000FF>r</color> Game Jam 
