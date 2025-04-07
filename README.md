@@ -13,5 +13,5 @@ by Team Nocturnal Core</size></b>
 Click on our names to see our portfolios!</size>
 
 <color=#FFCE00><size=45><b>Game Designer/Technical Artist/Gameplay Developer</b></size></color>
-<size=40><link="https://www.linkedin.com/in/himmetogulakol/">Himmet Oğul Akol</link></size>
+<size=40><link="https://www.linkedin.com/in/himmetogulakol/"> Himmet Oğul Akol </link></size>
 <size=35><link="https://thebossa-works.itch.io//"><color=#B71600>TheBossa</color> <color=#FFFFFF>Works</color></link></size>
